@@ -21,7 +21,7 @@ public class ConversationIntro {
   
   /** Returns an integer that is double its input */
   public int timesTwo(int n) {
-    return 0;
+    return 2*n;
   }
 
   /*
@@ -30,7 +30,8 @@ public class ConversationIntro {
   
   /** Returns the square of its input */
   public int squared(int n) {
-    return 0;
+    return n*n;
+    // n^2 == n*n
   }
 
   /*
